@@ -1,4 +1,4 @@
-# html-coffee-malika
+# html-malika-coffee
 Simple html application for Malika Coffee ☕
 
 - Images
